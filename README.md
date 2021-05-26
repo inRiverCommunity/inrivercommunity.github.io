@@ -4,6 +4,10 @@
 A desktop UI tool for viewing and manipulating connector states.
 [https://github.com/starrepublic/inriver-connectorstateexplorer](https://github.com/starrepublic/inriver-connectorstateexplorer).
 
+### Print Tinkerer
+A desktop UI tool for testing and debugging print related matters. Eliminates much (or all) need for developers to have InDesign installed. Also include a proxy that sits between InDesign and the CCRService.
+[https://github.com/starrepublic/inriver-printtinkerer](https://github.com/starrepublic/inriver-printtinkerer).
+
 ## To-be-added:
 * Google Chrome extension that will allow you to more easily log in and out between iPMC enviornments.
 * Google Chrome extension that will add improvements and tweaks to the Web Portal and Control Center.
