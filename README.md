@@ -14,6 +14,9 @@ Have you ever required to add restrictions (Add, Update, Delete) per entity type
 ### CVLValue Cleanup
 Natively, when a CVL Value is deleted, the entities that use this CVL Value are not cleaned up. The "CVL Value Key" stays on the field type, which prevents the entity update unless you change the field type that used the CVL. Furthermore, by keeping this deleted CVL Value on the entity, you could erroneous data to your 3rd party solution. Here's an extension that will clean the entities using the deleted CVL Value: [https://absotech.atlassian.net/wiki/spaces/INRIVER/pages/167706625/CVL+Value+Cleanup](https://absotech.atlassian.net/wiki/spaces/INRIVER/pages/167706625/CVL+Value+Cleanup).
 
+### Resources Downloader
+Ability to download all the resource files within a Workarea in the Web portal from a Chrome Extension. All the details here: [https://absotech.atlassian.net/wiki/spaces/INRIVER/pages/38600705/Extend+the+inRiver+Portal+with+Chrome+Extensions](https://absotech.atlassian.net/wiki/spaces/INRIVER/pages/38600705/Extend+the+inRiver+Portal+with+Chrome+Extensions)
+
 ## To-be-added:
 * Google Chrome extension that will allow you to more easily log in and out between iPMC enviornments.
 * Google Chrome extension that will add improvements and tweaks to the Web Portal and Control Center.
